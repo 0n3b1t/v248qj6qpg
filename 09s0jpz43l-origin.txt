@@ -799,35 +799,3 @@ ns2.nic.amsterdam.	172800	IN	A	194.146.106.134
 ns2.nic.amsterdam.	172800	IN	AAAA	2001:67c:1010:34:0:0:0:53
 ns3.nic.amsterdam.	172800	IN	A	194.0.25.26
 ns3.nic.amsterdam.	172800	IN	AAAA	2001:678:20:0:0:0:0:26
-analytics.		172800	IN	NS	ns1.dns.nic.analytics.
-analytics.		172800	IN	NS	ns2.dns.nic.analytics.
-analytics.		172800	IN	NS	ns3.dns.nic.analytics.
-analytics.		172800	IN	NS	ns4.dns.nic.analytics.
-analytics.		172800	IN	NS	ns5.dns.nic.analytics.
-analytics.		172800	IN	NS	ns6.dns.nic.analytics.
-analytics.		86400	IN	DS	37117 8 1 91AF3A0177CE63C1BB43D26CAE930DBC87872840
-analytics.		86400	IN	DS	37117 8 2 6AECD7C4BB3FFC0946CBDADBD3612CBD2057613FB12695BA356ACB9C3D3558A9
-analytics.		86400	IN	RRSIG	DS 8 1 86400 20210820170000 20210807160000 26838 . JC1NcOGBUYBEYlFhMQAmS0IOtLzc8eZcCUhCzwj4vuq3tOSFrCzjVljv4ucmIVqYMMrlVs8zSWDom2mMAb5bgJcIZNgNuZZ8Ggo8iuZVr7muQLVnr+iIGYUcqCMZEhBaY3KIaF1MK0hpl7LW2BB8J0Ud6bCibEWF3toz31nx3jdIJsHyRh86jPyPAivxQUiScFndN75DhDTNO3mvHHoQMrgKqN3/uTSSYfMdcIyCVfmZ2ezO00yK2GeudU7JOILuu0bnz9Z9FvmE+NyenNpjHpsOoTld7/7f+FkDBZ7Qi5YOA+nIyQfGNDQA7SqUPKHBTaG6M9lC0BcYckq+gi9Vjg==
-analytics.		86400	IN	NSEC	android. NS DS RRSIG NSEC
-analytics.		86400	IN	RRSIG	NSEC 8 1 86400 20210820170000 20210807160000 26838 . D434VzmsRN1oVn+Eddd/is9zACE5icqlbZ37U6G3fYxzb/Ciqa8V80laQFIvFkvIRiiD0li0LHQl8vfwFmCg4panuGp8v5XyQcB/oTA/pJmxEvop29URZDG+f6h6mqmtelv5X7iQEjMLFizEL7xcR4t6Qd+DTX9ZU2nxs8b9cXIfmwxIz72M6Im+tDNOTbzJQtTw0aJ/GJXr9P3gOCZzhkopx1REaIqfWCvSq6Zb0q+d2OQyrfW8GDq8Nj8l9WZPFHtpxwdU2RY0BQuC8wJ8WyT6+XnXITIOsUMQp7XMJIDV/He2E56ATPbTZFluptSt+KgiwvMGk0vVitdWP0NBGg==
-ns1.dns.nic.analytics.	172800	IN	A	156.154.144.12
-ns1.dns.nic.analytics.	172800	IN	AAAA	2610:a1:1071:0:0:0:0:c
-ns2.dns.nic.analytics.	172800	IN	A	156.154.145.12
-ns2.dns.nic.analytics.	172800	IN	AAAA	2610:a1:1072:0:0:0:0:c
-ns3.dns.nic.analytics.	172800	IN	A	156.154.159.12
-ns3.dns.nic.analytics.	172800	IN	AAAA	2610:a1:1073:0:0:0:0:c
-ns4.dns.nic.analytics.	172800	IN	A	156.154.156.12
-ns4.dns.nic.analytics.	172800	IN	AAAA	2610:a1:1074:0:0:0:0:c
-ns5.dns.nic.analytics.	172800	IN	A	156.154.157.12
-ns5.dns.nic.analytics.	172800	IN	AAAA	2610:a1:1075:0:0:0:0:c
-ns6.dns.nic.analytics.	172800	IN	A	156.154.158.12
-ns6.dns.nic.analytics.	172800	IN	AAAA	2610:a1:1076:0:0:0:0:c
-android.		172800	IN	NS	ns-tld1.charlestonroadregistry.com.
-android.		172800	IN	NS	ns-tld2.charlestonroadregistry.com.
-android.		172800	IN	NS	ns-tld3.charlestonroadregistry.com.
-android.		172800	IN	NS	ns-tld4.charlestonroadregistry.com.
-android.		172800	IN	NS	ns-tld5.charlestonroadregistry.com.
-android.		86400	IN	DS	4937 8 2 9D8E83DD4629DDAE1597428C5352EB7B9CECB4854548D960AC8D7112D24C7F08
-android.		86400	IN	RRSIG	DS 8 1 86400 20210820170000 20210807160000 26838 . rP+eD7vcTZJNb69B4NthuyBA6w4PyA/crdeCuCo43zJZgN9uMLHx2UTy+Pd1vopeT6+o8iVZzuGHQvA746EjKgHSQf90lyVdJfDluwfc9v13GQAmRJWg7Zh/4LEF9m1sIAzEJP+L7YId/X/8raJkKlE80Bw3tMLnv79YgXvpEVBjs9EL+Ky6IqjFZXAvrLh70vD3g3V5HhlBYWzC9o6CctrweL653C/LHNr3Ro2CSeRpmEFF6AP+oegfbOKb4dLaw7DY+uQvqo58L7mFPfSrFeoiJSwg+FZsmpK49R31OWwzwr5Et4W9BIrLa3IAOSlAvqQb89A6P6kDciK62fqNeA==
-android.		86400	IN	NSEC	anquan. NS DS RRSIG NSEC
-android.		86400	IN	RRSIG	NSEC 8 1 86400 20210820170000 20210807160000 26838 . azxes2q5iewjgieySUYbQklPOAPqITohh9GdJ+Z36I9BGGwggpuNXSDqBghYIEol5WMHLsjgMtofUZSTADTK8E1BvNdMAZfbmEAs8ieZMLbVwD1VSU18GQbHQoGrXUHsPCttdDrR3A2fdD8QMaR9KaBb+sGDhK2U8cosUaheem1QX2eiC4D3aZnB6+Hw90u+sr8p0dT5iB4ushDrzum0EcyFqXGYeVMqdoYmsplm3lHWZYurtn6ZnWWmkvvPsNggemXkNt8VELwyD3WQXYi3Djd87vrcmMOhHECjyFeUa06zWPfbf9Pxyw+uzjJLnZRN4db34sBuj0BAa4I43rnJCw==
