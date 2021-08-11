@@ -1,11 +1,4 @@
--aig.			172800	IN	NS	ns1.dns.nic.aig.
--aig.			172800	IN	NS	ns2.dns.nic.aig.
--aig.			172800	IN	NS	ns3.dns.nic.aig.
--aig.			172800	IN	NS	ns4.dns.nic.aig.
--aig.			172800	IN	NS	ns5.dns.nic.aig.
--aig.			172800	IN	NS	ns6.dns.nic.aig.
--aig.			86400	IN	DS	18790 8 1 D278A78A40A47896B96CFF560DC21E7F0EDDB173
--aig.			86400	IN	DS	18790 8 2 20CDC95E557C99DA4E1F20A1B08462664F048B2BAA6735000CD85AD11035D65E
--aig.			86400	IN	RRSIG	DS 8 1 86400 20210820170000 20210807160000 26838 . Rp5Tmhk/bBuyRYrpSiykb9T9VChAFbtisDEBlXsUmruBAJLTxBor0PvdtGuEYWlzWOuJhnxvadLxO6KOFwbhfjwfgBe959/4lbaeO1m7nthS5RAma4flAGlBMnV26kEg9AQsJrpwS6r1/DPmfMtDzYPaEEF3albLCOh4ZK5k1etSez4P9Zp9qGSvEq4nhpkTLimREUGEbZSBzsG0sCY9XablN3cXJCRawFAasYNH0P8JMiJCJalTDnIKH4QrcehsiMhtCb8Xhyoy+2K3F0UrIWN8j2hgynrULoxID/aJ5TLhoPwL+fygpKRFdFq0L2hdxy0P05SMzsrUykflhcs1Hw==
--aig.			86400	IN	NSEC	airbus. NS DS RRSIG NSEC
--aig.			86400	IN	RRSIG	NSEC 8 1 86400 20210820170000 20210807160000 26838 . 
++android.		172800	IN	NS	ns-tld1.charlestonroadregistry.com.
++android.		172800	IN	NS	ns-tld2.charlestonroadregistry.com.
+-c0.nic.agakhan.		172800	IN	A	65.22.46.1
+-c0.nic.agakhan.		172800	IN	AAAA	2a01:8840:2c:0:0:0:0:1
