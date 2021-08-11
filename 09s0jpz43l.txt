@@ -260,6 +260,8 @@ m.dns.nic.aco.		172800	IN	A	194.0.26.12
 m.dns.nic.aco.		172800	IN	AAAA	2001:67c:10e0:0:0:0:0:12
 n.dns.nic.aco.		172800	IN	A	194.0.24.12
 n.dns.nic.aco.		172800	IN	AAAA	2001:678:24:0:0:0:0:12
+android.		172800	IN	NS	ns-tld1.charlestonroadregistry.com.
+android.		172800	IN	NS	ns-tld2.charlestonroadregistry.com.
 actor.			172800	IN	NS	demand.beta.aridns.net.au.
 actor.			172800	IN	NS	demand.alpha.aridns.net.au.
 actor.			172800	IN	NS	demand.delta.aridns.net.au.
@@ -456,8 +458,6 @@ a2.nic.agakhan.		172800	IN	A	65.22.47.1
 a2.nic.agakhan.		172800	IN	AAAA	2a01:8840:2d:0:0:0:0:1
 b0.nic.agakhan.		172800	IN	A	65.22.45.1
 b0.nic.agakhan.		172800	IN	AAAA	2a01:8840:2b:0:0:0:0:1
-c0.nic.agakhan.		172800	IN	A	65.22.46.1
-c0.nic.agakhan.		172800	IN	AAAA	2a01:8840:2c:0:0:0:0:1
 agency.			172800	IN	NS	demand.beta.aridns.net.au.
 agency.			172800	IN	NS	demand.alpha.aridns.net.au.
 agency.			172800	IN	NS	demand.delta.aridns.net.au.
