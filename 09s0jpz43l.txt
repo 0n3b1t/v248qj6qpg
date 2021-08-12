@@ -471,9 +471,3 @@ agency.			86400	IN	RRSIG	NSEC 8 1 86400 20210820170000 20210807160000 26838 . Lx
 ai.			172800	IN	NS	a.lactld.org.
 ai.			172800	IN	NS	pch.whois.ai.
 ai.			172800	IN	NS	anycastdns1-cz.nic.ai.
-ai.			172800	IN	NS	anycastdns2-cz.nic.ai.
-ai.			86400	IN	NSEC	aig. NS RRSIG NSEC
-ai.			86400	IN	RRSIG	NSEC 8 1 86400 20210820170000 20210807160000 26838 . jPzV4rt+bRtmZYfAYB1cMNfy9/qksaJmgnqrpRGNfVGhc07OttM/C11JbVPEn3wbGksJAMGAiwu/EvYm0ZnxE5fbckL/6FGs82p/fSsaopGVdfFHChlzNsIrZXn74GU9VXh5dWCKKA+cZe4X0zbWkRP9TycVyO7UcwexxO4DqYH4rJOqp4zdh07OlmJd3rr0CdzexwoQaV2T8tRkjGXDnjYCLMnHXN7WIZw83w6g2XGG7UFawVwnz97lZmnBY2VVt9BdbLNHOF2FXwhbK0/57E82Ak+f44h+4UEI64wmN4R8ZW8Owa0dqNTBD5VBpBFgr1xIWJukM932/urcvuvipA==
-anycastdns1-cz.nic.ai.	172800	IN	A	185.28.194.194
-anycastdns2-cz.nic.ai.	172800	IN	A	185.38.108.108
-anycastdns2-cz.nic.ai.	172800	IN	AAAA	2a00:fea0:dead:0:0:0:0:beef
