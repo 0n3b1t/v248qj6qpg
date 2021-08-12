@@ -1,4 +1,2 @@
-+android.		172800	IN	NS	ns-tld1.charlestonroadregistry.com.
-+android.		172800	IN	NS	ns-tld2.charlestonroadregistry.com.
--c0.nic.agakhan.		172800	IN	A	65.22.46.1
--c0.nic.agakhan.		172800	IN	AAAA	2a01:8840:2c:0:0:0:0:1
+- pch.whois.ai. A
+- pch.whois.ai. AAAA
