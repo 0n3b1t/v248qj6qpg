@@ -1,2 +1,1 @@
-- pch.whois.ai. A
-- pch.whois.ai. AAAA
++ 172800 IN A 65.22.24.17
